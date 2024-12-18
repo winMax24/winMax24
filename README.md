@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winMax24
 - 👀 I’m interested in AWS 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning tools in DevOps
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me ...Message
 
